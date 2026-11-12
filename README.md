@@ -11,4 +11,4 @@
 6. Пулы
 7. NIO и многопоточность
 
-Создание ветки из IDEA
+[![Java CI with Maven](https://github.com/vnovopashin/job4j_threads_/actions/workflows/maven.yml/badge.svg)](https://github.com/vnovopashin/job4j_threads_/actions/workflows/maven.yml)
