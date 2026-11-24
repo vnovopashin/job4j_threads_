@@ -1,6 +1,5 @@
 package ru.job4j.synch;
 
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
@@ -9,7 +8,6 @@ import java.util.TreeSet;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
-@Disabled
 public class SingleLockListTest {
 
     @Test
